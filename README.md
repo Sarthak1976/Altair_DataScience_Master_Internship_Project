@@ -1,1 +1,1 @@
-# Altair_DataScience_Master_Internship_Project
+# Altair_DataScience_Master_Virtual_Internship_Project
